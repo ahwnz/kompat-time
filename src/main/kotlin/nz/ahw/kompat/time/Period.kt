@@ -1,11 +1,11 @@
-/*---------------------------------------------------------------------*\
-**     _  ______                                                       **
-**    | |/ /  _ \                KBar Time - Kotlin Time Utilities     **
-**    | ' /| |_) | __ _ _ __     Copyright 2017, Alex Westphal         **
-**    |  < |  _ < / _` | '__|    https://github.com/ahwnz/kbar-time    **
-**    | . \| |_) | (_| | |                                             **
-**    |_|\_\____/ \__,_|_|                                             **
-\*---------------------------------------------------------------------*/
+/*--------------------------------------------------------*\
+**                                                        **
+**        kompat-time: Kompatibility for Java Time        **
+**        Kotlin Compatibility Project (Kompat)           **
+**        Copyright 2017-2018, Alex Westphal              **
+**        https://github.com/ahwnz/kompat-time            **
+**                                                        **
+\*--------------------------------------------------------*/
 package nz.ahw.kompat.time
 
 import nz.ahw.kompat.time.units.Days
