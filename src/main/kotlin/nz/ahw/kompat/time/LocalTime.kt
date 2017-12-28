@@ -8,8 +8,8 @@
 \*---------------------------------------------------------------------*/
 package nz.ahw.kompat.time
 
-import nz.ahw.ktime.units.Nanos
-import nz.ahw.ktime.units.Seconds
+import nz.ahw.kompat.time.units.Nanos
+import nz.ahw.kompat.time.units.Seconds
 import java.time.*
 
 // LocalTime Builders  -------------------------------------------------------------------------------------------------

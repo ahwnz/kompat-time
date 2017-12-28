@@ -8,7 +8,7 @@
 \*---------------------------------------------------------------------*/
 package nz.ahw.kompat.time
 
-import nz.ahw.ktime.units.Days
+import nz.ahw.kompat.time.units.Days
 import java.time.*
 import java.time.chrono.ChronoLocalDate
 

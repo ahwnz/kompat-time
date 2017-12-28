@@ -8,9 +8,9 @@
 \*---------------------------------------------------------------------*/
 package nz.ahw.kompat.time
 
-import nz.ahw.ktime.units.Days
-import nz.ahw.ktime.units.Months
-import nz.ahw.ktime.units.Years
+import nz.ahw.kompat.time.units.Days
+import nz.ahw.kompat.time.units.Months
+import nz.ahw.kompat.time.units.Years
 import java.time.Period
 
 // Period Builders  ----------------------------------------------------------------------------------------------------

@@ -11,9 +11,9 @@ package nz.ahw.kompat.time
 import io.kotlintest.matchers.shouldBe
 import io.kotlintest.matchers.shouldEqual
 import io.kotlintest.specs.StringSpec
-import nz.ahw.ktime.units.days
-import nz.ahw.ktime.units.months
-import nz.ahw.ktime.units.years
+import nz.ahw.kompat.time.units.days
+import nz.ahw.kompat.time.units.months
+import nz.ahw.kompat.time.units.years
 
 import java.time.Period as JPeriod
 

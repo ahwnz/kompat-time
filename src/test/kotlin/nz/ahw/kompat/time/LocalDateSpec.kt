@@ -2,7 +2,7 @@ package nz.ahw.kompat.time
 
 import io.kotlintest.matchers.shouldEqual
 import io.kotlintest.specs.StringSpec
-import nz.ahw.ktime.units.days
+import nz.ahw.kompat.time.units.days
 
 import java.time.LocalDate as JLocalDate
 import java.time.Month

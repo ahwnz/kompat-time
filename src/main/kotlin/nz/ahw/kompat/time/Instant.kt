@@ -8,8 +8,8 @@
 \*---------------------------------------------------------------------*/
 package nz.ahw.kompat.time
 
-import nz.ahw.ktime.units.Millis
-import nz.ahw.ktime.units.Seconds
+import nz.ahw.kompat.time.units.Millis
+import nz.ahw.kompat.time.units.Seconds
 import java.time.*
 
 // Instant Builders  ---------------------------------------------------------------------------------------------------

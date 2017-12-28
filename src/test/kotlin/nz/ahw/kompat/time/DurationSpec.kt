@@ -11,7 +11,7 @@ package nz.ahw.kompat.time
 import io.kotlintest.matchers.shouldEqual
 import io.kotlintest.matchers.shouldThrow
 import io.kotlintest.specs.StringSpec
-import nz.ahw.ktime.units.*
+import nz.ahw.kompat.time.units.*
 
 import java.time.Duration as JDuration
 

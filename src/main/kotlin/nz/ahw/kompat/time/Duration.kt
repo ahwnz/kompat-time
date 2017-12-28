@@ -8,7 +8,7 @@
 \*---------------------------------------------------------------------*/
 package nz.ahw.kompat.time
 
-import nz.ahw.ktime.units.*
+import nz.ahw.kompat.time.units.*
 import java.time.Duration
 
 // Duration Builders  --------------------------------------------------------------------------------------------------

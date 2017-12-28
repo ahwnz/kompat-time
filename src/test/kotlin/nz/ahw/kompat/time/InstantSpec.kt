@@ -10,8 +10,8 @@ package nz.ahw.kompat.time
 
 import io.kotlintest.matchers.shouldEqual
 import io.kotlintest.specs.StringSpec
-import nz.ahw.ktime.units.millis
-import nz.ahw.ktime.units.seconds
+import nz.ahw.kompat.time.units.millis
+import nz.ahw.kompat.time.units.seconds
 import java.time.ZoneId
 
 import java.time.Instant as JInstant
